@@ -1,0 +1,7 @@
+# Documents de cours : pas redistribués dans le dépôt
+EPITECH_*.pdf
+
+# Remplacé par Cadrage V5.pdf ; les annexes sont dans docs/annexes-cadrage.md
+Fiche_cadrage_groupe.md
+
+.claude/
